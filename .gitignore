@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+.venv/
+venv/
+ENV/
+env.bak/
+env/
+
+# macOS system files
+.DS_Store
+
+# VSCode settings
+.vscode/
+
+# Data files (optional - if you don’t want to commit datasets)
+*.csv
+*.xlsx
+*.xls
+*.json
+
+# Notebook output cache (optional)
+*.ipynb~
+
+# Logs
+*.log
