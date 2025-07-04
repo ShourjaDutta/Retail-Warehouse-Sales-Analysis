@@ -32,6 +32,7 @@ This project performs a detailed analysis of retail and warehouse sales using Py
 - `.gitignore`: .gitnore file
 - `LICENSE`: LICENSE
 - `README.md`: README file
+- `Requirements.txt`: Requirements file
 
 ## 📈 Visualizations
 
