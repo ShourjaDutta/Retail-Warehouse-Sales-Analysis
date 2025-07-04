@@ -49,7 +49,7 @@ This project performs a detailed analysis of retail and warehouse sales using Py
    ```
 2. Install dependencies:
 ```
-pip install pandas matplotlib seaborn
+pip install -r Requirements.txt
 ```
 
 3. Add the dataset:
